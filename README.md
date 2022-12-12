@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-To access this webpage, please use the following URL: 
+To access this webpage, please use the following URL: https://emma-231925.github.io/challenge1/
 
 The website provide information about Search Engine Optimization, Online Reputation Management and Social Media Marketing. On the right side of the webpage you can learn more about the benefits of these!
 
