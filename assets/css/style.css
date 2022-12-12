@@ -125,8 +125,8 @@ aside img {
     margin: 10px auto;
     max-width: 150px;
 }
-/* sets defaults for footer, display: none to hide */
 
+/* sets defaults for footer, display: none to hide */
 footer {
     display: none;
     padding: 30px;
