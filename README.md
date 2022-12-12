@@ -2,32 +2,21 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+The aim of this project was to refract the code provided and improve its functionality and accessability by adding semantic HTML tags as well as adding alt descriptions to all images. The starter code did not use semantic HTML, so this was addressed and the CSS code was adjusted to match these new tags. Additionally, the CSS code was neatened up, repeated code was removed and condensed and the order was adjusted to follow best practices. This project made the Horiseon website more accessable to those with disabilities. As well as this, the HTML code was debugged so that all links work.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+Throughout this project I learnt a lot more about semantic HTML tags and the importance of using these to improve accessability. As well as this, refracting the CSS code helped me improve my knowledge of CSS and how to reduce repeated code by targetting multiple elements at once. 
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+To access this webpage, please use the following URL: 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+The website provide information about Search Engine Optimization, Online Reputation Management and Social Media Marketing. On the right side of the webpage you can learn more about the benefits of these!
 
+Below is a screenshot of the final webpage:
 ![Final website, showing all content](assets/images/website-screenshot.png)
 
 ## Credits
