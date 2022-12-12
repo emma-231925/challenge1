@@ -16,7 +16,6 @@ To access this webpage, please use the following URL:
 
 The website provide information about Search Engine Optimization, Online Reputation Management and Social Media Marketing. On the right side of the webpage you can learn more about the benefits of these!
 
-Below is a screenshot of the final webpage:
 ![Final website, showing all content](assets/images/website-screenshot.png)
 
 ## Credits
